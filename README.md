@@ -21,11 +21,11 @@
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
-<br/><br/>
+<br/>
 
 ## My Respositories
 <br/>
-- 📌 [Clone UI Disney](https://github.com/bpinheiroms/clone-ui-disney-plus/)<br />
+[Clone UI Disney](https://github.com/bpinheiroms/clone-ui-disney-plus/)
 
 <br/>
 
