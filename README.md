@@ -7,6 +7,10 @@
 
 <br/>
 
+<p>
+  - I'm currently working at Globo with ReactJs and Node.
+  - Before, I worked at B3 (Bolsa de Valores) and Guide Investimentos.
+</p>
 
 ### Where to find me:
 
