@@ -25,9 +25,7 @@
 
 ## My Repositories
 
-- 📌  Clone UI Disney+
-  - [Repositório](https://github.com/bpinheiroms/clone-ui-disney-plus)
-  - [Site](https://clone-ui-disney-plus.vercel.app/)
+- Clone UI Disney+  |  [Repositório](https://github.com/bpinheiroms/clone-ui-disney-plus) | [Site](https://clone-ui-disney-plus.vercel.app/)
 
 
 ## My Development Stack
