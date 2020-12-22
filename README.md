@@ -23,11 +23,6 @@
 
 <br/>
 
-## My Respositories
-<br/>
-[Clone UI Disney](https://github.com/bpinheiroms/clone-ui-disney-plus/)
-
-<br/>
 
 ## My Development Stack
 
