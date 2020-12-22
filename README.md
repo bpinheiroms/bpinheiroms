@@ -37,16 +37,12 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849454-f3b97c00-43f5-11eb-9e13-5927921b4d3f.png" alt="Styled Component"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849485-0338c500-43f6-11eb-85b2-a213a99ca1a7.png" alt="Redis"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849445-ee5c3180-43f5-11eb-8fae-6362d02db1e5.png" alt="NextJS"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/22135548/102848515-bc49d000-43f3-11eb-8641-37bb4ece6743.png" alt="Redis"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849419-dedce880-43f5-11eb-980e-c0576cc75fcd.png" alt=".Net Core"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849436-eb614100-43f5-11eb-931d-10000dd9fd83.png" alt="RabbitMQ"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849434-e8665080-43f5-11eb-88d3-c3977c52efbb.png" alt="Firebase"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849427-e2706f80-43f5-11eb-985a-9547215adce3.png" alt="SQL"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849419-dedce880-43f5-11eb-980e-c0576cc75fcd.png" alt=".Net Core"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849419-dedce880-43f5-11eb-980e-c0576cc75fcd.png" alt=".Net Core"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849419-dedce880-43f5-11eb-980e-c0576cc75fcd.png" alt=".Net Core"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/>
 <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
