@@ -5,10 +5,8 @@
   <b>Brazil</b>.
 </p>
 
-<br/>
-
 <p>
-  - I'm currently working at Globo with ReactJs and Node.
+  - I'm currently working at Globo with ReactJs and Node.<br/>
   - Before, I worked at B3 (Bolsa de Valores) and Guide Investimentos.
 </p>
 
