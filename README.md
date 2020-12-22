@@ -45,7 +45,7 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/22135548/102849427-e2706f80-43f5-11eb-985a-9547215adce3.png" alt="SQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/>
 <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-
+<br/><br/>
 <p align="right">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/bpinheiroms/bpinheiroms" alt="Visitors badge" />
