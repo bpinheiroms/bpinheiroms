@@ -25,7 +25,7 @@
 
 ## My Respositories
 <br/>
-- 📌 [Clone UI - Disney](https://github.com/bpinheiroms/clone-ui-disney-plus)<br />
+- 📌 [Clone UI Disney](https://github.com/bpinheiroms/clone-ui-disney-plus/)<br />
 
 <br/>
 
