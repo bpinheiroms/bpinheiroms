@@ -7,7 +7,7 @@
 
 <p>
   - 5+ years of experience.<br/>
-  - I'm currently working at Globo with ReactJs and Node.<br/>
+  - I'm currently working at Rede Globo with ReactJs and Node.<br/>
   - Before, I worked at B3 (Bolsa de Valores) and Guide Investimentos.
 </p>
 
