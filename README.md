@@ -1,5 +1,5 @@
 # Welcome to my page!
 
 <p>
-  I'm Bruno Pinheiro, Fullstack Developer from <b>Brazil</b>.
+  I'm Bruno Pinheiro.
 </p>
